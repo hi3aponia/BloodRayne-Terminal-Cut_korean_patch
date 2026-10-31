@@ -1,4 +1,4 @@
-# 블러드레인 1: 터미널 컷 (BloodRayne: Terminal Cut) 한국어 패치 v2.0
+# 블러드레인 1: 터미널 컷 (BloodRayne: Terminal Cut) 한국어 패치
 
 ![Platform](https://img.shields.io/badge/Platform-Steam%20PC-0078D7?logo=steam&logoColor=white)
 ![Version](https://img.shields.io/badge/Patch%20Version-v2.0.0-success)
