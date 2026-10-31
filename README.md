@@ -1,0 +1,1 @@
+# BloodRayne-Terminal-Cut_korean_patch
