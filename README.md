@@ -6,8 +6,10 @@
 ![Audio](https://img.shields.io/badge/Audio-English%20%7C%20Japanese-blue)
 ![Subtitles](https://img.shields.io/badge/Subtitles-Dual%20Script%20Korean-orange)
 
+## 중요사항: 한글자막의 동영상은 용량이 높아서 한식구 네이버 카페에서 구글드라이브를 통해 따로 배포하고있습니다.
 스팀(Steam) 버전 **BloodRayne: Terminal Cut**의 완전 한국어화 패치입니다.  
 본 패치는 인게임 텍스트 100% 번역은 물론, **영어 대사 기반 자막**과 **일본어 대사 기반 자막**의 듀얼 스크립트를 최초로 구현하였으며, 원클릭으로 음성과 자막을 자유롭게 조합할 수 있는 **4대 통합 언어 선택기 GUI**를 기본 탑재하고 있습니다.
+
 
 ---
 
